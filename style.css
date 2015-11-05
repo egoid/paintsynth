@@ -8,4 +8,10 @@ table, #sample {
 
 #canvas {
 	border:1px solid black;
+	background: #1E1E1E
+	url(http://www.paulgallery.sk/wp-content/uploads/2015/03/Mona-Lisa.jpg);
+}
+
+canvas:hover {
+	cursor:crosshair;
 }
